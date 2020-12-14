@@ -1,1 +1,1 @@
-#How to Create an Animated Page Transition with JavaScript
+# How to Create an Animated Page Transition with JavaScript
